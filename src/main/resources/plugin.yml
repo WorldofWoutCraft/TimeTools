@@ -1,0 +1,12 @@
+ name: TimeTools
+ version: 1.0
+ description: Assign times to items!
+ author: woutwoot
+ main: com.woutwoot.timetools.Main
+ database: false
+ commands:
+    tt:
+      description: Main WoWPvP command.
+      aliases: [timetool,timetools,ttool,ttools]
+      permission: timetools.command
+      usage: Syntax error!
